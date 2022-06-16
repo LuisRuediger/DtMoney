@@ -1,7 +1,9 @@
  🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
  <br>
- Techs: React, Styled-components;  
+ Techs: React, Styled-components, Axios;  
 
 Todo:
 - [x] Componentização
-- [ ] Consumo de API (Axios)
+- [x] Consumo de API (Axios)
+- [ ] Fazer Modal
+- [ ] Forms
